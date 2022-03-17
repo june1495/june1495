@@ -4,7 +4,6 @@
 # About me 🧐
 * Accounting student of the Federico Villarreal National University, with a great interest in the development of web and mobile applications, using the MERN stack and other libraries(redux,styled-component, material-ui,react router,etc)
 * I love to play competitive games such as Dota2 and Csgo. :video_game:
-* 
 # Skills
 * 👨‍💻 Javascript
 * ⚙️ ReactJs,NodeJs
